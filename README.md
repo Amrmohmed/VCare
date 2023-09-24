@@ -1,6 +1,6 @@
 * Download project:
 ```
-git clone https://github.com/Amrmohmed/////
+git clone https://github.com/Amrmohmed/laravel-VCare.git
 ```
 * Install the dependencies:
 
